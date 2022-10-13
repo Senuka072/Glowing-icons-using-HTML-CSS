@@ -1,4 +1,4 @@
-# This repository is about how make glowing icons using HTML & CSS.
+# This repository is about how to make glowing icons using HTML & CSS.
 
 ## Clone the repository
 ```
